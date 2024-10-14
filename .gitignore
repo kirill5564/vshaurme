@@ -1,1 +1,1 @@
-vshaurme/.idea/
+git config --global core.excludesfile ~/.gitexcludes
